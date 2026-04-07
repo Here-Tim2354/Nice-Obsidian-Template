@@ -1,5 +1,4 @@
 [
-  "remotely-save",
   "calendar",
   "file-explorer-note-count",
   "obsidian-export-image",
@@ -18,5 +17,6 @@
   "obsidian-markdown-export-plugin",
   "easy-typing-obsidian",
   "obsidian-banners",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-enhancing-export"
 ]
