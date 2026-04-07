@@ -6,17 +6,7 @@
     "Author": "text",
     "Properties": "text",
     "Status": "checkbox",
-    "importance": "number",
     "Date": "date",
-    "Features": "text",
-    "cover": "multitext",
-    "日期": "text",
-    "早餐": "text",
-    "午餐": "text",
-    "晚餐": "text",
-    "通勤": "text",
-    "买东西": "text",
-    "喝的": "text",
-    "需要报销": "text"
+    "Features": "text"
   }
 }

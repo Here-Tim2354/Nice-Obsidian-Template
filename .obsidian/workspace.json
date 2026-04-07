@@ -11,14 +11,14 @@
             "id": "70823808add1c1ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "示例文件.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/types.json",
+                "bFile": ".obsidian/types.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "示例文件"
+              "icon": "diff",
+              "title": "Diff: types.json  (Working Tree)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       {
         "id": "ae13a13b190078d9",
         "type": "tabs",
-        "dimension": 62.599206349206355,
+        "dimension": 43.452380952380956,
         "children": [
           {
             "id": "9d2b3b68a83d59d4",
@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-学习/大二/计算机组成与系统基础/8.异常流控制.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "8.异常流控制 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -154,12 +153,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-学习/伟大的自学/AI/000-基础概念/提示词工程/LangGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "LangGPT 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -177,24 +175,6 @@
             }
           },
           {
-            "id": "8090ad1184d71c59",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "ce076721396fc561",
-        "type": "tabs",
-        "dimension": 37.40079365079365,
-        "children": [
-          {
             "id": "3829838748a1c0b1",
             "type": "leaf",
             "state": {
@@ -204,11 +184,29 @@
               "title": "书签"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1d065f7de2ffab20",
+        "type": "tabs",
+        "dimension": 56.547619047619044,
+        "children": [
+          {
+            "id": "8090ad1184d71c59",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,18 +230,20 @@
   },
   "active": "70823808add1c1ea",
   "lastOpenFiles": [
-    "未命名.md",
     "示例文件.md",
-    "000-学习/四六级/4级",
-    "001-生活/随记/专辑评价",
-    "000-学习/大二/线性代数",
-    "000-学习/大二/操作系统",
-    "000-学习/大一/课程设计",
-    "000-学习/大一/数据结构",
-    "000-学习/大二/计算机网络",
-    "000-学习/大二/大学物理A",
-    "000-学习/大一/C语言复习",
-    "000-学习/伟大的自学/AI",
+    "主题测试/长文本/散文",
+    "主题测试/长文本/引用",
+    "主题测试/长文本",
+    "主题测试/代码/TypeScript",
+    "主题测试/代码/CSS",
+    "主题测试/代码",
+    "主题测试/Markdown/扩展",
+    "主题测试/Markdown/基础",
+    "主题测试/Markdown",
+    "主题测试/日本語/現代",
+    "x.md",
+    "Nightsky.jpg",
+    "未命名.md",
     "Attachment/0808e676b6d564403362b2dfae5f4b31 2.jpg",
     "Attachment/0808e676b6d564403362b2dfae5f4b31 1.jpg",
     "000-学习/大一/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/项目流程图.canvas",
@@ -276,13 +276,10 @@
     "000-学习/伟大的自学/AI/011-Dive Into Deep Learning/0.前言,环节依赖和符号.md",
     "000-学习/伟大的自学/JAVA/003-MIT.6.102/Course/0.Basic Typescript.md",
     "001-生活/随记/专辑评价/Music For Psychedelic Therapy - Jon Hopkins.md",
-    "000-学习/伟大的自学/AI/007-收藏文章/001-AI Con参会随想：模型智商过剩后，我们还应该聊些什么？.md",
-    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Course/4.Classes and Objects.md",
     "Attachment/Pasted image 20260407000034.png",
     "Attachment/Pasted image 20260407000009.png",
     "Attachment/Pasted image 20260406235903.png",
     "Attachment/Pasted image 20260402080658.png",
-    "Attachment/Pasted image 20260401233514.png",
     "主页白板.canvas",
     "未命名.canvas",
     "000-学习/大一/课程设计/团队激励与沟通/项目流程.canvas",
