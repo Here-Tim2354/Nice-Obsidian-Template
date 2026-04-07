@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e13323fe7708ed19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fed0890179f25257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "示例文件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "示例文件"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4463e5ddee5bf276",
+    "type": "split",
+    "children": [
+      {
+        "id": "af6ff79dd524a8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1775e0eec91233a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "35870caf11b3bd4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0b5e948126c69294",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "e1abbd056484ec1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae13a13b190078d9",
+        "type": "tabs",
+        "dimension": 62.5968992248062,
+        "children": [
+          {
+            "id": "9d2b3b68a83d59d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "示例文件.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "示例文件 的大纲"
+            }
+          },
+          {
+            "id": "acaac9e2a575b63e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "b3e2e5ca5faf4cb3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7b921149f588ce96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000-学习/大二/计算机组成与系统基础/8.异常流控制.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "8.异常流控制 的反向链接列表"
+            }
+          },
+          {
+            "id": "e6df3a75678fc960",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000-学习/伟大的自学/AI/000-基础概念/提示词工程/LangGPT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LangGPT 的出链列表"
+            }
+          },
+          {
+            "id": "c1a1cf6e74f71b50",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8090ad1184d71c59",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "ce076721396fc561",
+        "type": "tabs",
+        "dimension": 37.4031007751938,
+        "children": [
+          {
+            "id": "3829838748a1c0b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 565.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": true,
+      "remotely-save:Remotely Save": false,
+      "i18n:I18N": false,
+      "obsidian-importer:Open Importer": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": true,
+      "homepage:Open homepage": false,
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fed0890179f25257",
+  "lastOpenFiles": [
+    "示例文件.md",
+    "000-学习/大二/计算机组成与系统基础/PDF/3.2 程序的机器级表示Ⅱ：控制 临时版.pdf",
+    "Attachment/0808e676b6d564403362b2dfae5f4b31 2.jpg",
+    "000-学习/伟大的自学/Linux/SCAU Course/PDFs/1 Linux概述.pdf",
+    "Attachment/0808e676b6d564403362b2dfae5f4b31 1.jpg",
+    "000-学习/伟大的自学/Linux/SCAU Course/PDFs/8 shell编程.pdf",
+    "000-学习/大一/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/项目流程图.canvas",
+    "000-学习/大二/计算机组成与系统基础/PDF/2.1 信息的表示和处理（2.1-2.3）.pdf",
+    "Attachment/47065c07c809bc71b3c72a8ddc5c08c0 (1).jpg",
+    "000-学习/大一/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/账号相关界面.canvas",
+    "Attachment/1d1a33f9ffa6537a727da0c30e690e90 (1).jpg",
+    "Attachment/3efd91efe21bfe780550b3cc161d5080_720.png",
+    "000-学习/伟大的自学/Linux/SCAU Course/PDFs/9 Linux下C编程.pdf",
+    "000-学习/大一/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/财务系统流程图.canvas",
+    "000-学习/伟大的自学/项目复盘/SCAU Practice/Pracetice7-task1.md",
+    "000-学习/伟大的自学/JAVA/003-MIT.6.102/Course/2.Testing.md",
+    "000-学习/伟大的自学/JAVA/003-MIT.6.102/Course Objective.md",
+    "000-学习/伟大的自学/AI/011-Dive Into Deep Learning/1.引言.md",
+    "000-学习/大一/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/班级成员信息界面.canvas",
+    "000-学习/伟大的自学/项目复盘/SCAU Practice/Experiment7-task2.md",
+    "000-学习/伟大的自学/Linux/SCAU Course/PDFs/3 Shell与常用命令1.pdf",
+    "000-学习/伟大的自学/Obsidian/Obsidian入门/Obsidian白板演示.canvas",
+    "000-学习/伟大的自学/Linux/SCAU Course/PDFs/5 常用命令3_VI编辑器.pdf",
+    "000-学习/伟大的自学/Linux/SCAU Course/PDFs/4 Shell与常用命令2.pdf",
+    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Course/0.Syllabus.md",
+    "001-生活/随记/专辑评价/Heaven come crashing - Rachika Nayar.md",
+    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Assignment/4/Book.java",
+    "000-学习/大二/计算机组成与系统基础/PDF/3.1 程序的机器级表示Ⅰ：基础 (3.1-3.5).pdf",
+    "000-学习/伟大的自学/AI/011-Dive Into Deep Learning/2.预备知识上.md",
+    "000-学习/伟大的自学/JAVA/003-MIT.6.102/Course/3.Code Review.md",
+    "000-学习/英语/Article/article-research-20260318-224737493.md",
+    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Course/3.Loops,Arrays.md",
+    "000-学习/伟大的自学/Linux/SCAU Course/Experiment/Experiment 8.md",
+    "000-学习/伟大的自学/Linux/SCAU Course/Experiment/Experiment 2.md",
+    "000-学习/伟大的自学/Linux/SCAU Course/Experiment/Experiment 1.md",
+    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Assignment/5/assn05 解析.md",
+    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Course/7.Exceptions,IO.md",
+    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Assignment/6/assgn06笔记.md",
+    "000-学习/伟大的自学/JAVA/003-MIT.6.102/Course/4.Specifications.md",
+    "000-学习/伟大的自学/JAVA/003-MIT.6.102/Course/1.Static Checking.md",
+    "000-学习/伟大的自学/AI/011-Dive Into Deep Learning/0.前言,环节依赖和符号.md",
+    "000-学习/伟大的自学/JAVA/003-MIT.6.102/Course/0.Basic Typescript.md",
+    "001-生活/随记/专辑评价/Music For Psychedelic Therapy - Jon Hopkins.md",
+    "000-学习/伟大的自学/AI/007-收藏文章/001-AI Con参会随想：模型智商过剩后，我们还应该聊些什么？.md",
+    "000-学习/伟大的自学/JAVA/002-MIT.6.092/Course/4.Classes and Objects.md",
+    "000-学习/伟大的自学/AI/007-收藏文章/000-省下230美元！谷歌的“金牌AI”方法论，被一篇论文彻底公开了.md",
+    "Attachment/Pasted image 20260407000034.png",
+    "Attachment/Pasted image 20260407000009.png",
+    "Attachment/Pasted image 20260406235903.png",
+    "Attachment/Pasted image 20260402080658.png",
+    "Attachment/Pasted image 20260401233514.png",
+    "主页白板.canvas",
+    "未命名.canvas",
+    "000-学习/大一/课程设计/团队激励与沟通/项目流程.canvas",
+    "000-学习/大一/课程设计/习概/习概思维导图.canvas",
+    "Tim2354笔记库/学习/习概思维导图.canvas"
+  ]
+}
