@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68b2b05031f17797",
+        "id": "07d056ce8f2bb72f",
         "type": "tabs",
         "children": [
           {
-            "id": "578240bdc6ebb194",
+            "id": "70823808add1c1ea",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/bookmarks.json",
-                "bFile": ".obsidian/bookmarks.json",
-                "aRef": ""
+                "file": "示例文件.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: bookmarks.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "示例文件"
             }
           }
         ]
@@ -92,7 +92,7 @@
       {
         "id": "ae13a13b190078d9",
         "type": "tabs",
-        "dimension": 62.5968992248062,
+        "dimension": 62.599206349206355,
         "children": [
           {
             "id": "9d2b3b68a83d59d4",
@@ -192,7 +192,7 @@
       {
         "id": "ce076721396fc561",
         "type": "tabs",
-        "dimension": 37.4031007751938,
+        "dimension": 37.40079365079365,
         "children": [
           {
             "id": "3829838748a1c0b1",
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 565.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +221,6 @@
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": true,
-      "remotely-save:Remotely Save": false,
       "i18n:I18N": false,
       "obsidian-importer:Open Importer": true,
       "templater-obsidian:Templater": false,
@@ -231,8 +230,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "578240bdc6ebb194",
+  "active": "70823808add1c1ea",
   "lastOpenFiles": [
+    "未命名.md",
     "示例文件.md",
     "000-学习/四六级/4级",
     "001-生活/随记/专辑评价",
