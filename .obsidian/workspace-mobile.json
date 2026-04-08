@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "371ebb9c0fcb68de",
+    "id": "mobile-main",
     "type": "split",
     "children": [
       {
-        "id": "6cd9b14132bcdd56",
+        "id": "mobile-tabs",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4de4adccf98a20",
+            "id": "mobile-leaf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,181 +23,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cd1705930548d93",
+    "id": "mobile-left",
     "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "1992c048ac72b052",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical",
-            "autoReveal": false
-          },
-          "icon": "lucide-folder-closed",
-          "title": "文件列表"
-        }
-      },
-      {
-        "id": "67ae3d5fd507e245",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          },
-          "icon": "lucide-search",
-          "title": "Search"
-        }
-      },
-      {
-        "id": "dcbce43b8a498f40",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-tags",
-          "title": "Tags"
-        }
-      },
-      {
-        "id": "358189324ab7b73a",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
-        }
-      }
-    ],
+    "children": [],
     "currentTab": 0
   },
   "right": {
-    "id": "c1763ef042ba02ef",
+    "id": "mobile-right",
     "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "7cbb7c5bb3be4581",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-coming-in",
-          "title": "反向链接"
-        }
-      },
-      {
-        "id": "989274fbd934784e",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
-        }
-      },
-      {
-        "id": "1859b5198c8a4f66",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-list",
-          "title": "Outline"
-        }
-      }
-    ],
+    "children": [],
     "currentTab": 0
   },
   "left-ribbon": {
-    "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false,
-      "templater-obsidian:Templater": false,
-      "pdf-plus:PDF++: 切换自动复制": false,
-      "pdf-plus:PDF++: 切换自动对焦": false,
-      "pdf-plus:PDF++: 切换自动粘贴": false,
-      "obsidian-language-learner:打开查词面板": false,
-      "obsidian-language-learner:打开新词面板": false,
-      "obsidian-language-learner:打开统计": false,
-      "obsidian-language-learner:单词列表": false,
-      "obsidian-importer:Open Importer": false
-    }
+    "hiddenItems": {}
   },
-  "active": "9c4de4adccf98a20",
-  "lastOpenFiles": [
-    "Attachment/IMG_20250412_184504.jpg",
-    "Attachment/IMG_20250406_181347.jpg",
-    "Attachment/IMG_20250331_133540.jpg",
-    "Attachment/IMG_20250412_180658.jpg",
-    "Attachment/IMG_20250408_213650.jpg",
-    "Attachment/IMG_20250408_213501.jpg",
-    "未命名.md",
-    "Attachment/IMG_20250327_215756.jpg",
-    "Attachment/IMG_20250327_215727.jpg",
-    "Attachment/IMG_20250325_204715.jpg",
-    "Attachment/IMG_20250331_133533.jpg",
-    "Attachment/IMG_20250331_133515.jpg",
-    "学习/C++/C++基础概念/标准库/6.Stack和Queue.md",
-    "学习/C++/C++基本语句和功能/VS Studio调试与编译.md",
-    "学习/Obsidian/Obsidian入门/Obsidian设置.md",
-    "学习/Obsidian/Obsidian入门/Obsidian按钮.md",
-    "学习/Obsidian/Obsidian入门/Obsidian技巧.md",
-    "学习/Obsidian/Obsidian入门/Obsidian双链.md",
-    "学习/C语言复习/1.基础语法与函数/4.printf和scanf.md",
-    "学习/C++/标准库/Algorithm库/Algorithm工具.md",
-    "学习/C++/标准库/Algorithm标准库/Algorithm工具.md",
-    "学习/C语言复习/1.基础语法与函数/5.getchar和putchar.md",
-    "学习/JAVA/1.Types, Variables, Operators.md",
-    "学习/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/登陆界面.canvas",
-    "学习/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/项目流程图.canvas",
-    "学习/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/账号相关界面.canvas",
-    "学习/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/财务系统流程图.canvas",
-    "学习/C语言拓展,过渡与实践/大一下程序设计实践/项目图表/班级成员信息界面.canvas",
-    "学习/JAVA/2.More types, Methods, Conditionals.md",
-    "学习/JAVA/1.Introduction To Programming In Java.md",
-    "生活/随记/专辑评价/Music For Psychedelic Therapy - Jon Hopkins.md",
-    "Attachment/681c9db795b48f68b58e45210620dae4_MIT6_092IAP10_lec02.pdf",
-    "Attachment/091d3a4de7548a04bde0f49bfceafde9_MIT6_092IAP10_assn01.pdf",
-    "Attachment/PDFs/f04b8fe32c4cd8c0cb0643937e1f6b5d_MIT6_092IAP10_lec07.pdf",
-    "Attachment/PDFs/e95ec6cf928f08259a01bda319484655_MIT6_092IAP10_lec04.pdf",
-    "Attachment/PDFs/4fb0ecc598d077817cd27eeb30a7882a_MIT6_092IAP10_lec01.pdf",
-    "Attachment/PDFs/2405ab6df66c95de7bb956f9b3329677_MIT6_092IAP10_lec06.pdf",
-    "Attachment/PDFs/5b55c703cbb7ada8d1bd72e58a1b4fbf_MIT6_092IAP10_lec03.pdf",
-    "Attachment/PDFs/681c9db795b48f68b58e45210620dae4_MIT6_092IAP10_lec02.pdf",
-    "Attachment/PDFs/ae507b638374a092cf863e83bde05bad_MIT6_092IAP10_lec05.pdf",
-    "Attachment/PDFs/34c78de406d2935f4b23c8149111a81a_MIT6_092IAP10_assn02.pdf"
-  ]
+  "active": "mobile-leaf",
+  "lastOpenFiles": []
 }

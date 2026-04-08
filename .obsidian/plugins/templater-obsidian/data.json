@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "002-模版文件",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -28,12 +28,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "002-模版文件/cpp.md",
-    "002-模版文件/java.md",
-    "002-模版文件/python.md",
-    "002-模版文件/文章属性.md"
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ],

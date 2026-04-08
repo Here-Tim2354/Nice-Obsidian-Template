@@ -56,8 +56,6 @@
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
-  "lastExportDirectory": {
-    "win32": "C:\\Users\\Tim2354\\Desktop"
-  },
+  "lastExportDirectory": {},
   "lastExportType": "Latex"
 }
