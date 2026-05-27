@@ -6,11 +6,13 @@
 
 - 主题：Border
 - 强调色：`#e48b25`
-- UI 字体：HONOR Sans CN
-- 正文：Inter → MiSans
-- 等宽：JetBrains Mono → HONOR Sans CN
+- UI 字体：[HONOR Sans CN](https://developer.honor.com/cn/doc/guides/100681)
+- 正文：Inter → [MiSans](https://hyperos.mi.com/font/zh/)
+- 等宽：[JetBrains Mono](https://www.jetbrains.com/lp/mono/) → HONOR Sans CN
 - 基础字号：18
 - 工作区：可使用`默认`来获取作者推荐布局
+
+注意：字体并不包含在内，只是作者推荐。均为可商用字体，可通过官方网站下载。
 
 ## 插件
 
@@ -35,6 +37,8 @@
 | Git                       | 在Obsidian中使用Git GUI          |
 | Neighbouring Files        | 在同目录文件间跳转                    |
 
+大部分插件可以通过命令面板中找到他们的功能入口。
+
 ### 核心插件
 
 文件管理、搜索、图谱、反链、Canvas、标签面板、属性、页面预览、日记、模板、笔记重组、命令面板、书签、大纲、幻灯片……基本全开。
@@ -52,11 +56,6 @@
 - **删除确认**：**关**。即删除文件不需要你确认。
 - **输入增强**：含有一系列针对中文输入优化的配置。具体查看`Easy Typing`的配置。
 
-## Git 备份
-
-- 启动时自动 `pull`
-- 不自动 push、不自动 commit——手动提交
-- 提交信息模板：`vault backup: {{date}}`
 
 ## 常用快捷键
 
