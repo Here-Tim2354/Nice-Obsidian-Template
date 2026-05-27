@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "README_EN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "README_EN"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "README_EN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "README_EN 的大纲"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "clean-leaf",
   "lastOpenFiles": [
-    "README_EN.md",
     "README.md",
+    "README_EN.md",
     "样式示例.md",
     "Attachment/Pasted image 20260527171453.png",
     "未命名.canvas",

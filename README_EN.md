@@ -10,6 +10,8 @@ Open that folder in Obsidian, choose to trust the vault, and enable the plugins.
 
 If you are an English user, you may also need to switch the language of Obsidian.
 
+Note: If you find that a `.obsidian` folder already exists in a directory, it means you have previously created an Obsidian Vault there. It is recommended to create a new Vault in a directory that does not contain a `.obsidian` folder.
+
 ## Appearance
 
 - Theme: Border
