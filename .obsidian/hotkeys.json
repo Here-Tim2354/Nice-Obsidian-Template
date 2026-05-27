@@ -31,14 +31,6 @@
     }
   ],
   "editor:open-link-in-new-leaf": [],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad0"
-    }
-  ],
   "language-translator:language-translator-editor-command": [
     {
       "modifiers": [
@@ -232,5 +224,21 @@
     }
   ],
   "file-explorer:new-file": [],
-  "easy-typing-obsidian:easy-typing-format-switch": []
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "neighbouring-files:next": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "neighbouring-files:prev": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "PageUp"
+    }
+  ]
 }

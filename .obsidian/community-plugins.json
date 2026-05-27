@@ -2,7 +2,6 @@
   "calendar",
   "file-explorer-note-count",
   "obsidian-export-image",
-  "i18n",
   "obsidian-importer",
   "language-translator",
   "obsidian-pandoc",
@@ -11,12 +10,10 @@
   "obsidian-style-settings",
   "templater-obsidian",
   "obsidian-icon-folder",
-  "obsidian-kanban",
-  "homepage",
   "terminal",
   "obsidian-markdown-export-plugin",
   "easy-typing-obsidian",
-  "obsidian-banners",
+  "obsidian-enhancing-export",
   "obsidian-git",
-  "obsidian-enhancing-export"
+  "neighbouring-files"
 ]

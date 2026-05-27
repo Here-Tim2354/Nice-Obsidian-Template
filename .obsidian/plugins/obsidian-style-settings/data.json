@@ -114,5 +114,6 @@
   "anuppuccin-theme-settings@@ctp-custom-text@@dark": "#AEAEAE",
   "anuppuccin-theme-settings@@ctp-custom-base@@dark": "#1B1C29",
   "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
-  "Editor@@bold-color@@dark": "#FFF09A"
+  "Editor@@bold-color@@dark": "#FFF09A",
+  "Editor@@zoom-off": true
 }
